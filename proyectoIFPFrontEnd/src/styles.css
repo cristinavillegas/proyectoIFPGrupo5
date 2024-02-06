@@ -1,0 +1,94 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: yellow; 
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.quarter-width{
+    width: 45%;
+}
+
+.ml20{
+    margin-left: 20px !important;
+}
+
+.mr20{
+    margin-right: 20px !important;
+}
+
+.mt20{
+    margin-top: 20px !important;
+}
+
+.mb20{
+    margin-bottom: 20px !important;
+}
+
+.ml10{
+    margin-left: 10px !important;
+}
+
+.mr10{
+    margin-right: 10px !important;
+}
+
+.mt10{
+    margin-top: 10px !important;
+}
+
+.mb10{
+    margin-bottom: 10px !important;
+}
+
+.ml70{
+    margin-left: 70px !important;
+}
+
+.ml100{
+    margin-left: 100px !important;
+}
+
+.mr70{
+    margin-right: 70px !important;
+}
+
+.mr100{
+    margin-right: 100px !important;
+}
+
+.ml200{
+    margin-left: 200px !important;
+}
+
+.ml250{
+    margin-left: 250px !important;
+}
+
+.ml300{
+    margin-left: 300px !important;
+}
+
+.container-logo{
+    margin-left: auto;
+    padding: 0%;
+    background: yellow;
+}
